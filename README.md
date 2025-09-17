@@ -49,3 +49,5 @@ GROQ_API_KEY=your_api_key_here
 
 Now open in your browser → http://127.0.0.1:5000/
 
+## Public link: https://customer-call-analysis.onrender.com/
+-Deployed on Render
