@@ -1,0 +1,17 @@
+"Hi, I was trying to book a slot yesterday but the payment failed and I’m really frustrated.","The customer attempted to book a slot but experienced a payment failure, which they are frustrated about.",Negative
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed and I’m really frustrated.
+Agent: I’m sorry to hear that. Could you confirm if the amount was deducted?
+Customer: Yes, the money was deducted but I didn’t get a confirmation email.
+Agent: Okay, I’ll escalate this to our billing team.","The customer attempted to book a slot but experienced a payment failure, with the amount being deducted but no confirmation email received. The agent apologized and escalated the issue to the billing team. The customer expressed frustration.",Negative
+"Transcript 2
+Customer: Hello, I received my order today and the product is exactly what I wanted.
+Agent: That’s great to hear! Was everything delivered on time?
+Customer: Yes, actually it arrived earlier than expected. Thank you so much.","The customer received their order and was satisfied with the product, which met their expectations. The order arrived earlier than expected, which was a pleasant surprise. The customer expressed gratitude towards the agent.",Positive
+"
+Customer: Hi, I’ve been trying to reset my password for two days but I still can’t log in.
+Agent: Did you get the reset email link?
+Customer: No, I checked my inbox and spam but nothing came. This is really annoying.
+Agent: I’ll manually trigger the reset for you.","The customer is unable to reset their password due to not receiving the reset email link, causing frustration. The agent offers to manually trigger the reset. The issue is resolved.",Negative
+My order was supposed to arrive yesterday but it’s still showing pending.,"The customer's order is delayed and still showing as pending, with the expected delivery date being yesterday.",Negative
+"I’m unable to download my invoice from the portal. Every time I try to reset my PIN, it says system error.The chat support disconnected before my issue was resolved.""","The customer is experiencing issues with accessing their invoice and resetting their PIN on the portal, resulting in a system error. They also mentioned that the chat support disconnected before their issue was resolved. The customer is unable to access the necessary information.",Negative
+Product performance is Good but no so much as expected.,"The customer is satisfied with the product's performance, but feels it doesn't meet their expectations. They are acknowledging the product's capabilities, but expressing a sense of disappointment.",Neutral
